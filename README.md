@@ -1,2 +1,2 @@
-# next-in-auth
+# Authentication in Next.js
 FullStack Authentication implementation in Next.js
